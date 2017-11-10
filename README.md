@@ -1,3 +1,4 @@
+
 # Stylesheets and Nested Selectors with CSS
 
 ## Objectives
@@ -12,7 +13,7 @@ We're going to style the navigation of our Icebreakers site. The goal is to move
 
 ![Navigation](https://cl.ly/nWkx/Image%202017-11-05%20at%205.38.14%20PM.png)
 
-Code your styles in `style.css` and include it in `index.html` with a `<link>` tag with an `href` attribute and a `rel` attribute of value `stylesheet`. 
+Code your styles in `style.css` and include it in `index.html` with a `<link>` tag with an `href` attribute and a `rel` attribute of value `stylesheet`.
 
 You have to use the specific selectors described below to style the navigation.
 
